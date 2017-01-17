@@ -1,4 +1,4 @@
-# GettStartedWithWAGS
+# Getting Started With WAGS
 
 Your username is:    
 
